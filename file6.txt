@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file
+=======
+file6.txt
+>>>>>>> b41bf4518fcad087f349ee36ee2d45b82ce0f6e7
